@@ -15,8 +15,22 @@ var courses = {
     "Sieci komputerowe": "Sieci",
     "Programowanie w Java": "Java",
     "Grafika komputerowa": "Grafika",
+    "Inżynieria internetu": "Web",
+    "Inżynieria oprogramowania": "IO",
+    "Metoda elementów skończonych": "MES",
+    "Podstawy sztucznej inteligencji": "PSI",
+    "Programowanie równoległe": "Równoległe",
+    "Wymiana ciepła i masy": "WCiM",
+    "Internet Engineering": "IE",
+    "Advanced programming in C": "C",
+    "Projektowanie Systemów Komputerowych": "PSK",
+    "Obliczenia Inżynierskie w Matlabie": "Matlab",
+    "Modelowanie wieloskalowe": "Wieloskalowe",
+    "Marketing internetowy": "Marketing",
+    "CAD / CAM": "CAD",
+    "Logistyka w hutnictwie": "Logistyka",
+    "Systemy wbudowane": "Wbudowane"
 };
-
 
 var text = cat('plan_zajec.ics');
 
