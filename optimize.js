@@ -29,7 +29,10 @@ var courses = {
     "Marketing internetowy": "Marketing",
     "CAD / CAM": "CAD",
     "Logistyka w hutnictwie": "Logistyka",
-    "Systemy wbudowane": "Wbudowane"
+    "Systemy wbudowane": "Wbudowane",
+    "Badanie operacyjne i logistyka": "BOiL",
+    "Inżynieria wiedzy i systemy ekspertowe": "IWiSE",
+    "Programy symulacyjne MES": "MES",
 };
 
 var text = cat('plan_zajec.ics');
